@@ -1,10 +1,5 @@
 @charset "UTF-8";
 
-@font-face {
-  font-family: "Spoqa";
-  src: url(/assets/SpoqaHanSansNeo-Regular.woff);
-}
-
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
